@@ -112,11 +112,11 @@ else
   fi
   
    echo -e "\033[38;5;208m"
-   echo -e "     ___    ____ __    __ ___    _   _        "
-   echo -e "    / _ \  |  _ \\ \  / // _ \  | \  ||       "
-   echo -e "   / /_\ \ | |_| |\ \/ // /_\ \ ||\\_||       "
-   echo -e "  /_/   \_\|____/  \__//_/   \_\|| \__|       "
-   echo -e "                                              \033[0;00m"
+   echo -e "You Are Used DragonTele Source ! "
+   echo -e "Tnx For Using This Source :) "
+   echo -e "Owner : @Nim_Bo "
+   echo -e "Channel : @DragonTele_Ch
+   echo -e "Robot : @DragonTele \033[0;00m"
    echo -e "\e[36m"
   
   while true; do
